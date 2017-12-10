@@ -8,7 +8,7 @@ clean:
 	rm -f input/*New.* output/*.*
 	rm -rf classes/*
 
-cleanFiles:
+clean-files:
 	rm -f input/*New.* output/*.*
 
 run:
