@@ -3,17 +3,17 @@
 Once cloned, go to lzw_comp directory once...
 
 ### Build
-make build
-> Build all class files of the app in ./classes directory */
+Build all class files of the app in ./classes directory
+> make build
 
 ### Clean
-make clean
-> clean ./classes, ./input and ./output directories */
+clean ./classes, ./input and ./output directories
+> make clean
 
 ### Clean input and output files
-make clean-files
-> clean only ./input and ./output files
+clean only ./input and ./output files
+> make clean-files
 
 ### Run
-make run
-> Runs the app - Should perform build first */
+Runs the app - Should perform build first
+> make run
